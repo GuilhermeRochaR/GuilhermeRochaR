@@ -11,7 +11,7 @@
 
 <!--Intro start-->
 
-- 📝Studying Information Systems
+- 📝Information Systems
 
 <!--Intro end-->
 
